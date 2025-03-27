@@ -3,4 +3,8 @@ Performed basic descriptive and inferential statistical analyses against a combi
 
 The two CSV files for analysis can be found at the links below:</br>
 Austin - https://catalog.data.gov/dataset/crime-reports-bf2b7 </br>
-New York City - https://catalog.data.gov/dataset/crime-data-from-2020-to-present 
+New York City - https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+
+Run the following:
+Need pandas extention installed: pip install pandas matplotlib seaborn
+Run graphing code: python graph.py
