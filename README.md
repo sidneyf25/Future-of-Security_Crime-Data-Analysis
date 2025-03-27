@@ -6,5 +6,5 @@ Austin - https://catalog.data.gov/dataset/crime-reports-bf2b7 </br>
 New York City - https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
 Run the following:
-Need pandas extention installed: pip install pandas matplotlib seaborn
+Need pandas extention installed: pip install pandas matplotlib seaborn </br>
 Run graphing code: python graph.py
